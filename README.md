@@ -1,3 +1,5 @@
+You can reach the project details here https://rizahorasan.medium.com/how-to-write-unit-tests-for-camel-routes-in-spring-boot-1b79716888b2
+
 # camel-unit-test
 spring boot, camel-test-spring-junit5, mockito
 camel-test-spring-junit5 has a great feature set and hides most of the heavy lifting. 
@@ -17,3 +19,4 @@ CamelContext
 @EndpointInject
 MockEndpoint
 ConstantExpression
+
